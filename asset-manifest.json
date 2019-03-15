@@ -1,15 +1,15 @@
 {
-  "main.css": "/butc_frontend_1/static/css/main.c1351f21.chunk.css",
-  "main.js": "/butc_frontend_1/static/js/main.d1f475bf.chunk.js",
-  "main.js.map": "/butc_frontend_1/static/js/main.d1f475bf.chunk.js.map",
+  "main.css": "/butc_frontend_1/static/css/main.e8b9c5e9.chunk.css",
+  "main.js": "/butc_frontend_1/static/js/main.32bf75ab.chunk.js",
+  "main.js.map": "/butc_frontend_1/static/js/main.32bf75ab.chunk.js.map",
   "runtime~main.js": "/butc_frontend_1/static/js/runtime~main.9380b122.js",
   "runtime~main.js.map": "/butc_frontend_1/static/js/runtime~main.9380b122.js.map",
-  "static/js/2.794449e0.chunk.js": "/butc_frontend_1/static/js/2.794449e0.chunk.js",
-  "static/js/2.794449e0.chunk.js.map": "/butc_frontend_1/static/js/2.794449e0.chunk.js.map",
+  "static/js/2.84797262.chunk.js": "/butc_frontend_1/static/js/2.84797262.chunk.js",
+  "static/js/2.84797262.chunk.js.map": "/butc_frontend_1/static/js/2.84797262.chunk.js.map",
   "index.html": "/butc_frontend_1/index.html",
-  "precache-manifest.ff24759772958514da743d94d1393c5b.js": "/butc_frontend_1/precache-manifest.ff24759772958514da743d94d1393c5b.js",
+  "precache-manifest.958931406cbf624e642756b1e80374f7.js": "/butc_frontend_1/precache-manifest.958931406cbf624e642756b1e80374f7.js",
   "service-worker.js": "/butc_frontend_1/service-worker.js",
-  "static/css/main.c1351f21.chunk.css.map": "/butc_frontend_1/static/css/main.c1351f21.chunk.css.map",
+  "static/css/main.e8b9c5e9.chunk.css.map": "/butc_frontend_1/static/css/main.e8b9c5e9.chunk.css.map",
   "static/media/BUTC_Logo.svg": "/butc_frontend_1/static/media/BUTC_Logo.3fe7311f.svg",
   "static/media/semantic.min.css": "/butc_frontend_1/static/media/icons.e6cf7c6e.woff2"
 }
